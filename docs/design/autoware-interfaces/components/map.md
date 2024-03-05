@@ -26,7 +26,7 @@ It loads point cloud files and publishes the maps to the other Autoware nodes in
 
 ### Lanelet2 map
 
-It loads a Lanelet2 files and publishes the map data in various configurations. Currently, it supports the following types:
+It loads Lanelet2 files and publishes the map data in various configurations. Currently, it supports the following types:
 
 - Single Lanelet2 map (autoware_auto_mapping_msgs/msg/HADMapBin)
   - std_msgs/Header header
